@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'lucaks'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EAD6E7D0636D4D5EBE92B825C7AB685B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB47F986D1FF43AC90EEC82B8782F10C }}
           package: .
